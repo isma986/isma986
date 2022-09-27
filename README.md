@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @isma986
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Yandex
